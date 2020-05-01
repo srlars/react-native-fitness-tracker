@@ -1,2 +1,1 @@
-# react-native-fitness-tracker
- React Native exercise
+# React Native Fitness Tracker
