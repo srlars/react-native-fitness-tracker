@@ -18,7 +18,7 @@ To run this project follow these steps:
 ## Features
 
 - Data logging
-- Integrated Calender
+- Integrated Calendar
 - Animations
 - Navigation
 - Geolocation (turned on to "City Run" in iOS emulator, see image below)
